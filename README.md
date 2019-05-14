@@ -1,2 +1,3 @@
 # hello-world
-Just another suppository
+Just another repository
+They are probably out to get you.
